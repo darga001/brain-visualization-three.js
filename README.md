@@ -1,12 +1,21 @@
-# React + Vite
+# 3D Brain Visualization (JavaScript + Three.js + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive 3D model of the human brain built with **Three.js** and **Vite**.  
+Includes labeled anatomy and hover markers for data storytelling and exploration.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+[View Demo][(https://brain-visualization.vercel.app](https://brain-visualization-three-js-aeym.vercel.app/))  
+*(auto-deployed from GitHub → Vercel)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Features
+- 3D rendering of brain structures using Three.js
+- Anatomical markers with hover interactions
+- Responsive design for browser display
+- Built with Vite for fast development and deployment
+
+---
+

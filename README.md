@@ -6,7 +6,7 @@ Includes labeled anatomy and hover markers for data storytelling and exploration
 ---
 
 ## 🚀 Live Demo
-[View Demo][(https://brain-visualization.vercel.app]([https://brain-visualization-three-js-aeym.vercel.app](https://brain-visualization-three-js.vercel.app/)/))  
+[View Demo][(https://brain-visualization.vercel.app](https://vercel.com/darga001s-projects/brain-visualization-three-js/GopkjBxyjZVKsjFnwGnYXvRhUMDq)/))  
 *(auto-deployed from GitHub → Vercel)*
 
 ---
